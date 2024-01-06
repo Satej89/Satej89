@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satej Tupare</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satej89&label=Profile%20views&color=0e75b6&style=flat" alt="satej89" /> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 - 🔭 I’m currently working on [Cloud Resume Challenge](https://github.com/satejtupare/Portfolio-Website)
 
