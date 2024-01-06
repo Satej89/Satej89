@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satej Tupare</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satej89&label=Profile%20views&color=0e75b6&style=flat" alt="satej89" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ1NDMzNTIsIm5iZiI6MTcwNDU0MzA1MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA2VDEyMTA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkMGU5NWZjMmU3MzM5MDQyM2UzZTgxODhmNzhhZDljMzhkYjE4YjU4YjYwNjJkMDc0ODE2ZWQ2MDUyM2RjOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4mudgPSZ8sQaupZIhQNgynDqfMrjSI--TfvfyrLN1JE">
 
 - 🔭 I’m currently working on [Cloud Resume Challenge](https://github.com/satejtupare/Portfolio-Website)
 
